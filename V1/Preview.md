@@ -2,7 +2,7 @@
 
 Arquivos presentes nessa pasta são resultado do primeiro Brainstorm  pós apresentação ao projeto e a ferramenta Astah UML.
 
-## Gestão de Clientes
+## Gestão de Produtos
 
 ![image](https://github.com/user-attachments/assets/eac3c8ca-8697-4fc8-a203-504148e1e75c)
 
